@@ -1,10 +1,8 @@
-#  Vitor Lopes
+# Vitor Lopes
 
-**`Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack`**
+**`Estudante de Análise e Desenvolvimento de Sistemas | Python | SQL | Dados e BI`**
 
-Me chamo Vitor, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio na rede pública e possuo formação técnica em Eletrônica pela ETEC. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNICSUL. Sou estudante de programação, dedicado ao aprendizado contínuo e apaixonado por tecnologia, conto com muita proatividade para enfrentar desafios, aqui estará um pouco do meu esforço em forma de atividades que realizo diariamente para consolidar ainda mais meu conhecimento com foco no desenvolvimento de soluções práticas. 
-
-
+Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Eletrônica pela ETEC, apaixonado por tecnologia e desenvolvimento de soluções práticas. Atualmente, venho aprofundando meus conhecimentos em Python, SQL, análise de dados e Business Intelligence, buscando evoluir continuamente por meio de projetos práticos e desafios de programação.
 
 <p align="left">
     <a href="https://github.com/vitorlopes-dev13">
@@ -25,36 +23,63 @@ Me chamo Vitor, tenho 24 anos e sou natural de São Paulo. Concluí o ensino mé
 
 ---
 
-###  Linguagens e Tecnologias
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+### Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+ align="left" 
+ alt="HTML" 
+ title="HTML" 
+ width="30px" 
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
+<img 
+ align="left" 
+ alt="CSS" 
+ title="CSS" 
+ width="30px" 
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="Python" 
+ title="Python" 
+ width="30px" 
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="SQL" 
+ title="SQL" 
+ width="30px" 
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+ align="left" 
+ alt="Power BI" 
+ title="Power BI" 
+ width="30px" 
+ style="padding-right: 10px;"
+ src="https://img.icons8.com/color/48/power-bi.png"
+/>
+
+<img 
+ align="left" 
+ alt="Git" 
+ title="Git" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
 <br/>
 <br/>
 
 ---
-
-  
